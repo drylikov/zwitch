@@ -132,6 +132,7 @@ function unknown() { /* … */ }
 function invalid() { /* … */ }
 ```
 
+
 ## API
 
 This package exports the identifier `zwitch`.
