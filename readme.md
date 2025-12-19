@@ -44,6 +44,7 @@ Handle values based on a field.
 
 
 
+
 This is a tiny package that lets you `switch` between some field on objects.
 
 ## When should I use this?
