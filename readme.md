@@ -52,6 +52,7 @@ This is a tiny package that lets you `switch` between some field on objects.
 This package is very useful when mapping one AST to another.
 It’s a lot like a `switch` statement on one field, but it’s extensible.
 
+
 ## Install
 
 This package is [ESM only][esm].
