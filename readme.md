@@ -138,6 +138,7 @@ function invalid() { /* … */ }
 
 ## API
 
+
 This package exports the identifier `zwitch`.
 There is no default export.
 
