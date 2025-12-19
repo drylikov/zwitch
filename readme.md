@@ -61,6 +61,7 @@ It’s a lot like a `switch` statement on one field, but it’s extensible.
 
 
 
+
 This package is [ESM only][esm].
 In Node.js (version 14.14+, 16.0+), install with [npm][]:
 
