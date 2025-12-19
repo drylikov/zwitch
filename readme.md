@@ -36,6 +36,7 @@ Handle values based on a field.
 *   [Security](#security)
 *   [License](#license)
 
+
 ## What is this?
 
 This is a tiny package that lets you `switch` between some field on objects.
