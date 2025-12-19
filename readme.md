@@ -34,7 +34,6 @@ Handle values based on a field.
 *   [Related](#related)
 *   [Contribute](#contribute)
 *   [Security](#security)
-*   [License](#license)
 
 
 
