@@ -38,6 +38,7 @@ Handle values based on a field.
 
 
 
+
 ## What is this?
 
 This is a tiny package that lets you `switch` between some field on objects.
